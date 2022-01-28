@@ -1,0 +1,26 @@
+{
+  "files.associations": {
+    "*.c": "c",
+    "*.cpp": "cpp",
+    "*.cs": "csharp",
+    "*.lua": "lua",
+    "*.ts": "xml",
+    "string": "cpp",
+    "*.tcc": "cpp",
+    "stdexcept": "cpp",
+    "array": "cpp",
+    "atomic": "cpp",
+    "deque": "cpp",
+    "vector": "cpp",
+    "iterator": "cpp",
+    "memory": "cpp",
+    "memory_resource": "cpp",
+    "string_view": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "streambuf": "cpp",
+    "type_traits": "cpp",
+    "typeinfo": "cpp"
+  }
+}
